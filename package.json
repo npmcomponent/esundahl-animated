@@ -1,0 +1,11 @@
+{
+  "name": "esundahl-animated",
+  "description": "animated",
+  "version": "0.0.1",
+  "keywords": [],
+  "styles": [
+    "animated.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
